@@ -65,7 +65,7 @@ The objective of these exercises is to practice and enhance skills in data manip
 | File 6 - Merge, Join, and Concatenate | This file demonstrates how to merge, join, and concatenate two datasets. | - Perform different types of joins (inner, outer, left, right, cross)<br>- Use join() and concat() for combining dataframes<br>- Merge based on multiple keys |
 | File 7 - Pandas Series and DataFrames | This file shows how to create and manipulate Pandas Series and DataFrames with basic operations. | - Create Series with custom indices<br>- Perform arithmetic on Series<br>- Create DataFrames from lists and dictionaries<br>- Manipulate DataFrame indices |
 | File 8 - Merge, Join, and Concatenate in Pandas | Another demonstration of merge and join operations using merge(), join(), and concat(). | - Merge two datasets using multiple join types<br>- Concatenate along different axes<br>- Demonstrate cross join |
-| File 9 - Data Visualization        | This file demonstrates various ways to visualize ice cream rating data using Pandas and Matplotlib. | - Line plot, bar plot, scatter plot, histogram<br>- Box plot and pie chart<br>- Set figure styles and visualize trends |
+| File 9 - Data Visualization        | This file demonstrates various ways to visualize Sales and Customer Insights data using Pandas and Matplotlib. | - Over 30 Plots in file including Line plot, bar plot, scatter plot, histogram<br>- Box plot and pie chart<br>- Set figure styles and visualize trends |
 
 ## Additional Information
 
